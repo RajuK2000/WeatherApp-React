@@ -1,0 +1,85 @@
+.main{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.MainContainer{
+    height:650px;
+    width:500px;
+    border-radius: 20px;
+    opacity: 0.98;
+    box-shadow: 10px 10px 10px;
+}
+.SearchBar{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding-top: 50px;
+}
+.SearchBar input{
+    display: flex;
+    background: beige;
+    height: 50px;
+    width: 280px;
+    border-radius: 40px;
+    border: none;
+    padding-left: 50px;
+    font-size: 20px;
+    font-weight: 500px;
+    box-shadow: 2px 2px 2px;
+}
+.SearchIcon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    width:50px;
+    border-radius: 20px;
+    background-color:azure;
+    box-shadow: 5px 5px 5px;
+    cursor: pointer;
+}
+.WeatherImage{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+.Temperature{
+    display: flex;
+    justify-content: center;
+    color:aliceblue;
+    font-size: 80px;
+    font-weight: 500;
+}
+.CityName{
+    display: flex;
+    justify-content: center;
+    color: lightgrey;
+    font-size: 50px;
+    font-weight: 700;
+}
+.DataContainer{
+   margin-top: 50px;
+   display: flex;
+   justify-content: center;
+}
+.element{
+    margin: auto;
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
+.Data{
+    font-size: 20px;
+    font-weight: 500;
+}
+.Data{
+    font-size: 25px;
+    font-weight: 500;
+    color:white;
+}
+.text{
+    font-size: 20px;
+    font-weight: 800;
+    color: crimson;
+}
