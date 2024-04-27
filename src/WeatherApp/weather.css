@@ -17,8 +17,7 @@
     padding-top: 50px;
 }
 .SearchBar input{
-    display: flex;
-    background: beige;
+    display: flex;  
     height: 50px;
     width: 280px;
     border-radius: 40px;
@@ -27,6 +26,7 @@
     font-size: 20px;
     font-weight: 500px;
     box-shadow: 2px 2px 2px;
+    color: black;
 }
 .SearchIcon{
     display: flex;
@@ -47,14 +47,14 @@
 .Temperature{
     display: flex;
     justify-content: center;
-    color:aliceblue;
+    color:rgb(21, 5, 33);
     font-size: 80px;
     font-weight: 500;
 }
 .CityName{
     display: flex;
     justify-content: center;
-    color: lightgrey;
+    color: rgba(3, 30, 68, 0.927);
     font-size: 50px;
     font-weight: 700;
 }
@@ -81,5 +81,5 @@
 .text{
     font-size: 20px;
     font-weight: 800;
-    color: crimson;
+    color:lavender;
 }
