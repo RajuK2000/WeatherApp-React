@@ -14,5 +14,7 @@ Functionality:
 Discription:
 
 -> This app using to find weather report according specific Places.
+
 -> So we are enter a valid input on the perticular input feild.
+
 -> It is usefull for Who want to know weather report instantly.
